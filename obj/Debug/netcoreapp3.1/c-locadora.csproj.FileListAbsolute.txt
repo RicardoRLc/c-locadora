@@ -1,0 +1,11 @@
+C:\Users\ricardo.costa.ALUNOS\c-locadora\bin\Debug\netcoreapp3.1\c-locadora.exe
+C:\Users\ricardo.costa.ALUNOS\c-locadora\bin\Debug\netcoreapp3.1\c-locadora.deps.json
+C:\Users\ricardo.costa.ALUNOS\c-locadora\bin\Debug\netcoreapp3.1\c-locadora.runtimeconfig.json
+C:\Users\ricardo.costa.ALUNOS\c-locadora\bin\Debug\netcoreapp3.1\c-locadora.runtimeconfig.dev.json
+C:\Users\ricardo.costa.ALUNOS\c-locadora\bin\Debug\netcoreapp3.1\c-locadora.dll
+C:\Users\ricardo.costa.ALUNOS\c-locadora\bin\Debug\netcoreapp3.1\c-locadora.pdb
+C:\Users\ricardo.costa.ALUNOS\c-locadora\obj\Debug\netcoreapp3.1\c-locadora.csprojAssemblyReference.cache
+C:\Users\ricardo.costa.ALUNOS\c-locadora\obj\Debug\netcoreapp3.1\c-locadora.AssemblyInfoInputs.cache
+C:\Users\ricardo.costa.ALUNOS\c-locadora\obj\Debug\netcoreapp3.1\c-locadora.AssemblyInfo.cs
+C:\Users\ricardo.costa.ALUNOS\c-locadora\obj\Debug\netcoreapp3.1\c-locadora.dll
+C:\Users\ricardo.costa.ALUNOS\c-locadora\obj\Debug\netcoreapp3.1\c-locadora.pdb
